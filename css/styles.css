@@ -1,0 +1,12 @@
+body{
+    background-color: #ec1c4b;
+}
+
+h1{
+    font-family: 'Aladin', cursive;
+    text-align: center;
+    color: #2f9395;
+    font-size: 70px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
